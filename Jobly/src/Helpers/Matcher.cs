@@ -8,21 +8,21 @@ public static class Matcher
         "quality",
         "qa",
         "automation",
-        "staff",
-        "lead",
         "infrastructure",
         "senior",
-        "engineering manager"
+        "engineer"
     };
 
     public static readonly string[] JobLocations =
     {
         "dublin",
         "ireland",
-        "remote - ireland",
-        "emea"
+        "emea",
+        "ie",
+        "uk",
+        "united kingdom",
+        "remote"
     };
-
 
     public static readonly string[] Companies =
     {
@@ -30,7 +30,6 @@ public static class Matcher
         "stripe",
         "patreon",
         "hudl",
-        "myfitnesspal",
-        "wikimedia"
+        "myfitnesspal"
     };
 }
