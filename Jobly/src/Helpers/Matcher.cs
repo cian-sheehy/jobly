@@ -27,9 +27,6 @@ public static class Matcher
     public static readonly string[] Companies =
     {
         "strava",
-        "stripe",
-        "patreon",
-        "hudl",
-        "myfitnesspal"
+        "stripe"
     };
 }
