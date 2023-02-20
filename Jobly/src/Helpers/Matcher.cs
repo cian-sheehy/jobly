@@ -4,13 +4,12 @@ public static class Matcher
 {
     public static readonly string[] JobTitle =
     {
-        "test",
-        "quality",
-        "qa",
         "automation",
         "infrastructure",
-        "senior",
-        "engineer"
+        "engineer",
+        "cloud",
+        "devops",
+        "platform"
     };
 
     public static readonly string[] JobLocations =
